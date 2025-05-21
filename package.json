@@ -1,0 +1,16 @@
+{
+  "nזame": "geopkg-merge",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@ngageoint/geopackage": "^4.2.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
